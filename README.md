@@ -23,7 +23,7 @@ Here's a quick snapshot of me:
  - 🏛️ PhD student at EPFL
  - 🔭 Researching time series prediction with foundation models
  - 🧗‍♂️ Exploring ML applications in chemistry and engineering
- - ⛰️ Experienced in process modeling, optimization. Worked as a process engineering in the pharma industry.
+ - ⛰️ Experienced in process modeling and optimization. Worked as a process engineer in the pharma industry.
  - 🥼 I've also done some lab work in process design and automation. 
 
 Feel free to connect and share your thoughts or ideas! 😄 💯
