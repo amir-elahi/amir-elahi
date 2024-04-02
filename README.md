@@ -20,7 +20,7 @@ I'm Amir, a chemistry and chemical engineering enthusiast diving into the world 
 In addition to my studies, I'm delving into the integration of machine learning in chemistry and various engineering disciplines, always eager to learn and collaborate on new ideas.
 
 Here's a quick snapshot of me:
- - 🏛️ PhD student at [EPFL](https://www.epfl.ch/en/) ([LSMO](https://www.epfl.ch/labs/lsmo/) lab)
+ - 🏛️ PhD student at [EPFL](https://www.epfl.ch/en/) ([Laboratory of Molecular Simulation](https://www.epfl.ch/labs/lsmo/))
  - 🔭 Researching time series prediction with foundation models
  - 🧗‍♂️ Exploring ML applications in chemistry and engineering
  - ⛰️ Experienced in process modeling and optimization. Worked as a process engineer in the pharma industry.
