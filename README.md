@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Amir, a chemistry and chemical engineering enthusiast diving into the world of computer science. I'm currently pursuing my PhD at [EPFL](https://www.epfl.ch/en/), where I'm exploring the fascinating realm of time series prediction using foundation models.
+I'm Amir [![ORCID](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png)](https://orcid.org//0009-0001-5907-101X), a chemistry and chemical engineering enthusiast diving into the world of computer science. I'm currently pursuing my PhD at [EPFL](https://www.epfl.ch/en/), where I'm exploring the fascinating realm of time series prediction using foundation models.
 
 In addition to my studies, I'm delving into the integration of machine learning in chemistry and various engineering disciplines, always eager to learn and collaborate on new ideas.
 
