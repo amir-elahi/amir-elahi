@@ -1,4 +1,4 @@
-### Hi everybody 👋
+### Hey everyone! 👋
 
 <!--
 **amir-elahi/amir-elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Amir, studing and passionate about chemistry and chemical engineering and the interplay of computer science with these fields. I will happily welcome new ideas and collaboration, so please reach out with anything you find me useful for 😄. Here is a TL;DR of me: 
- - 🏛 I am a PhD student at École polytechnique fédérale de Lausanne (EPFL)
- - 🔭 I'm working on prediction of time series using foundation models
- - 🧗‍♂️ I'm learning about the use of ML in chemistry and other branches of engineering
- - ⛰ My experiences are in process modelling and optimization. Plus some experience in Lab work and pharma industires 
+
+I'm Amir, a chemistry and chemical engineering enthusiast diving into the world of computer science. I'm currently pursuing my PhD at EPFL, where I'm exploring the fascinating realm of time series prediction using foundation models.
+
+In addition to my studies, I'm delving into the integration of machine learning in chemistry and various engineering disciplines, always eager to learn and collaborate on new ideas.
+
+Here's a quick snapshot of me:
+ - 🏛️ PhD student at EPFL
+ - 🔭 Researching time series prediction with foundation models
+ - 🧗‍♂️ Exploring ML applications in chemistry and engineering
+ - ⛰️ Experienced in process modeling, optimization, and a bit of lab work in the pharma industry.
+
+Feel free to connect and share your thoughts or ideas! 😄💯
