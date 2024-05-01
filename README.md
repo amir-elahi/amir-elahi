@@ -12,16 +12,15 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0xrushi.vistorsBadge)
   
  </div>
-<!--
-**amir-elahi/amir-elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
-  ### Hey everyone! 👋
+   
+### Hey everyone! 👋
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amir-elahi.visitorsBadge)
 </div>
-
+<!--
+**amir-elahi/amir-elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
