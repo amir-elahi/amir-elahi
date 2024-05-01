@@ -1,11 +1,24 @@
+
+
+<div align="center">
+
+### Hi there, I'm Rushi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/53929994/97773333-21382680-1b25-11eb-8de9-eba964792cd8.gif" >
+  
+![GitHub followers](https://img.shields.io/github/followers/0xrushi?color=velvet&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0xrushi.vistorsBadge)
+  
+ </div>
+<!--
+**amir-elahi/amir-elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div align="center">
   ### Hey everyone! 👋
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amir-elahi.visitorsBadge)
 </div>
-
-  
-<!--
-**amir-elahi/amir-elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
