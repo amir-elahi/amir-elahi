@@ -1,5 +1,8 @@
+<div align="center">
 ### Hey everyone! 👋
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amir-elahi.vistorsBadge)
+ </div>
+  
 <!--
 **amir-elahi/amir-elahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
