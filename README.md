@@ -26,8 +26,8 @@ In addition to my studies, I'm delving into the integration of machine learning 
 
 Here's a quick snapshot of me:
  - 🏛️ PhD student at [EPFL](https://www.epfl.ch/en/) ([Laboratory of Molecular Simulation](https://www.epfl.ch/labs/lsmo/))
- - 🔭 Researching time series prediction with foundation models
- - 🧗‍♂️ Exploring ML applications in chemistry and engineering
+ - 🔭 Researching mathematical modeling of adsorption.
+ - 🧗‍♂️ Exploring ML and LLM applications in chemistry and engineering
  - ⛰️ Experienced in process modeling and optimization. Worked as a process engineer in the pharma industry.
  - 🥼 I've also done some lab work in process design and automation. 
 
